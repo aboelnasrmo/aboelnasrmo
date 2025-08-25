@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboelnasrmo" alt="aboelnasrmo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xaboelnasr" target="blank"><img src="https://img.shields.io/twitter/follow/xaboelnasr?logo=twitter&style=for-the-badge" alt="xaboelnasr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xerrorm" target="blank"><img src="https://img.shields.io/twitter/follow/xaboelnasr?logo=twitter&style=for-the-badge" alt="xerrorm" /></a> </p>
 
 - 🔭 I’m currently working on **Quran App , PM simulator**
 
