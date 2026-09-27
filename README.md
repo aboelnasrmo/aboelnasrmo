@@ -61,8 +61,8 @@ Flutter · Swift/SwiftUI · FastAPI · self-hosting on a home server · virtual 
 ## 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboelnasrmo&show_icons=true&locale=en" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboelnasrmo&show_icons=true&locale=en&layout=compact" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aboelnasrmo&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aboelnasrmo&theme=default" alt="Top languages" height="165" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=aboelnasrmo" alt="GitHub streak" />
