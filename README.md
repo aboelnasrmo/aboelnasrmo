@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Aboelnasr</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Aboelnasr</h1>
 <h3 align="center">Maintenance & reliability engineer by day · indie developer by night</h3>
 
 <p align="center">
